@@ -4,12 +4,6 @@ header > h1 {
 	font-weight: 2em;
 	text-align: center;
   font-stretch: condensed;
-	margin-left: 30px;
-  margin-bottom: 0;
-	color: #fff;
-	text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #4efc51, 0 0 30px #4efc51, 0 0 40px #4efc51, 0 0 50px #1f781f, 0 0 75px #1f781f;
-	letter-spacing: 5px;
-  display: inline;
 }
 
 body{
@@ -19,8 +13,11 @@ body{
     font-size: 16px;
   }
   #wrapper {
-      width : 960px;
+      width : 500px;
+      height: 300px;
       margin: 0 auto;
+      background: #fff;
+      padding: 4px 4px 18px 4px;
   }
   #wrapper h2 {
     text-align: center;
