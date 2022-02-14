@@ -19,13 +19,9 @@ body{
       background: #fff;
       padding: 4px 4px 18px 4px;
   }
-  #wrapper h2 {
-    text-align: center;
-  }
 
     footer {
       background-color: rgba(20, 61, 20, 0.8);
-      /*background-color: rgba(71, 227, 255, 0.6);*/
       border-color:#4efc51;
       border-width:1px;
       border-style:solid; 
@@ -37,10 +33,6 @@ body{
       text-align: center;
       color: #4efc51;
     }
-
-
-
-
   
   a {
       color: #80ea69;
