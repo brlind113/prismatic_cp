@@ -1,0 +1,20 @@
+body{
+    background-color: #222;
+    color: #59ea3a;
+    font-family: Calibri, Verdana, sans-serif;
+    font-size: 16px;
+  }
+  #wrapper {
+      width : 960px;
+      margin: 0 auto;
+  }
+  #wrapper h2 {
+    text-align: center;
+  }
+  a {
+      color: #80ea69;
+  }
+  a:hover {
+    color: #59ea3a;
+    text-decoration: none;
+  }
