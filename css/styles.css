@@ -1,3 +1,16 @@
+header > h1 {
+	font-family: Helvetica, sans-serif;
+	font-size: 9.2em;
+	font-weight: 2em;
+  font-stretch: condensed;
+	margin-left: 30px;
+  margin-bottom: 0;
+	color: #fff;
+	text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #4efc51, 0 0 30px #4efc51, 0 0 40px #4efc51, 0 0 50px #1f781f, 0 0 75px #1f781f;
+	letter-spacing: 5px;
+  display: inline;
+}
+
 body{
     background-color: #222;
     color: #59ea3a;
@@ -11,6 +24,26 @@ body{
   #wrapper h2 {
     text-align: center;
   }
+
+    footer {
+      background-color: rgba(20, 61, 20, 0.8);
+      /*background-color: rgba(71, 227, 255, 0.6);*/
+      border-color:#4efc51;
+      border-width:1px;
+      border-style:solid; 
+      border-radius: 0 0 5px 5px;
+      padding: 1px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 1090px;
+      text-align: center;
+      color: #4efc51;
+    }
+
+
+
+
+  
   a {
       color: #80ea69;
   }
